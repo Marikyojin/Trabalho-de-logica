@@ -18,7 +18,7 @@ programa {
 		    div=n1/n2
 		    escreva("O resultado da divisão é "+div+"\n")
 		    escreva("Deseja fazer outra divisão? (V ou F) ")
-		    
+		    escreva("Fim da aplicacao")
 	        leia (res)
 	   }
 	
