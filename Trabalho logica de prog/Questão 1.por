@@ -11,13 +11,14 @@ programa {
 	
 		
 	    	enquanto (n2<=0){
-		       escreva ("Número inválido, por favor insira outro valor no denominador ")
+		       escreva ("NÃºmero invÃ¡lido, por favor insira outro valor no denominador ")
 		       leia (n3)
 		       n2=n3
 		    }
 		    div=n1/n2
-		    escreva("O resultado da divisão é "+div+"\n")
-		    escreva("Deseja fazer outra divisão? (V ou F) ")
+		    escreva("O resultado da divisÃ£o Ã© "+div+"\n")
+		    escreva("Deseja fazer outra divisÃ£o? (V ou F) ")
+		    escreva("Tu e muito esperto!")
 	        leia (res)
 	   }
 	
